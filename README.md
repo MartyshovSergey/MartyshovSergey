@@ -14,7 +14,7 @@ C конца 2021 года начал осваивать Python и другие 
 [<img src="./images/django.svg" width="82px" height="82px">](https://www.djangoproject.com)
 [<img src="./images/html-5.svg">](http://htmlbook.ru/html)
 [<img src="./images/css3.svg">](https://html5book.ru/css-css3/)
-[<img src="./images/git.svg" width="82px" height="82px">](https://git-scm.com)
+[<img src="./images/git.svg">](https://git-scm.com)
 
 ### Контакты
 [<img src="./images/telegram.svg" width="82px" height="82px">](https://t.me/Sergey_Martyshov)
