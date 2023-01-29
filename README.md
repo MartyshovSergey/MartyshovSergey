@@ -1,11 +1,11 @@
 ## Добрый день! Сергей М. Backend Developer (Python).
 
 C конца 2021 года начал осваивать Python и другие технологии (Django, 
- Bootstrap 5, Git, DRF, Nginx, Docker). Свой путь начал с youtube каналов: alishev, PythonToday и курсов на Степике, смотрю их и по сей день, очень интересно!
+ Bootstrap 5, Git, DRF, Nginx, Docker). Свой путь начал с youtube каналов: alishev, PythonToday и курсов на Степике, смотрю их и по сей день, нахожу много полезного.
 
-С июня 2022 года прохожу обучение на Yandex.Practicum по направлению - Python-разработчик (очень интересный и содержательный курс). Могу смело сказать, что это один из самых интересных моментов в моей жизни.
+С июня 2022 года прохожу обучение на Yandex.Practicum по направлению Python-разработчик (интересный и содержательный курс) - это один из самых важных моментов для меня как разработчика.
 
-В данный момент я занимаюсь индивидуальной разработкой в среде Python, Django, DRF.
+В настоящее время занимаюсь индивидуальной разработкой в среде Python, Django, DRF.
 
 **Стек технологий**: Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Bootstrap 5, HTML, CSS, git, pytest, unittest, venv, API, json, nginx.
 
