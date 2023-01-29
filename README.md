@@ -11,8 +11,8 @@ C конца 2021 года начал осваивать Python и другие 
 
 ### Основной стек технологий
 [<img src="./images/python.svg" width="82px" height="82px">](https://www.python.org)
-![Django](/images/django.svg)
-![HTML](/images/html-5.svg)
+[<img src="./images/django.svg" width="82px" height="82px">](https://www.djangoproject.com)
+[<img src="./images/html-5.svg" width="82px" height="82px">](http://htmlbook.ru/html)
 ![CSS](/images/css3.svg)
 ![Git](/images/git.svg)
 
