@@ -10,7 +10,7 @@ C конца 2021 года начал осваивать Python и другие 
 **Стек технологий**: Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Bootstrap 5, HTML, CSS, git, pytest, unittest, venv, API, json, nginx.
 
 ### Основной стек технологий
-![Python](/images/python.svg)
+[<img src="./images/python.svg" width="82px" height="82px">](https://www.python.org)
 ![Django](/images/django.svg)
 ![HTML](/images/html-5.svg)
 ![CSS](/images/css3.svg)
