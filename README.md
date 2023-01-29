@@ -1,3 +1,3 @@
-### Добрый день! Сергей М. Backend Delevoper (Python).
+### Добрый день! Сергей М. Backend Developer (Python).
 
 
