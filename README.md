@@ -17,6 +17,6 @@ C конца 2021 года начал осваивать Python и другие 
 ![Git](/images/git.svg)
 
 ### Контакты
-[<img src="./images/telegram.svg">](https://t.me/Sergey_Martyshov)
+[<img src="./images/telegram.svg" width="82px" height="82px">](https://t.me/Sergey_Martyshov)
 [<img src="./images/ym.svg" width="90px" height="90px">](mailto:martyshovss@yandex.ru)
-[<img src="./images/Linkedin.svg">](https://www.linkedin.com/in/sergey-martyshov/)
+[<img src="./images/Linkedin.svg" width="90px" height="90px">](https://www.linkedin.com/in/sergey-martyshov/)
